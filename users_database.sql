@@ -19,3 +19,11 @@ INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Ben Affleck
 INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Ryan Gosling', '36', '0');
 INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Matthew McConaughey', '47', '0');
 INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('James Cameron', '62', '1');
+INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Uma Thurman', '47', '0');
+INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Robert De Niro', '73', '0');
+INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Al Pacino', '77', '0');
+INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Kevin Spacey', '57', '0');
+INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('John Travolta', '63', '0');
+INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Leonardo DiCaprio', '42', '0');
+INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Russell Crowe', '53', '0');
+INSERT INTO `test`.`users` (`USER_NAME`, `AGE`, `IS_ADMIN`) VALUES ('Tom Hanks', '60', '0');
